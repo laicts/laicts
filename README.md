@@ -2,9 +2,9 @@
 # 🖤Olá, sou Lais Victoria
 
 ## Sobre mim
-💻 Eu sou uma estudante de desenvolvimento 
+💻 Eu sou uma estudante de tecnologia
 
-🎓 Eu estudo [Análise e Desenvolvimento de Sistemas]  [Faculdade: Universidade Cesumar]
+🎓 Eu estudo [Análise e Desenvolvimento de Sistemas]
 
 ✒️ Eu gosto de no meu tempo livre [Jogar video game 🎮 | Cozinhar | Ler 📚 ]
 
