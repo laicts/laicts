@@ -6,8 +6,6 @@
 
 🎓 Eu estudo [Análise e Desenvolvimento de Sistemas]
 
-✒️ Eu gosto de no meu tempo livre [Jogar video game 🎮 | Cozinhar | Ler 📚 ]
-
 ## Conecte-se
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/laicts)
 
@@ -21,6 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Vscode-white?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laicts&bg_color=white&border_color=black&title_color=black&text_color=black)
